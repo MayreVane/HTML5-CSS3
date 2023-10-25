@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body{
+    background-color: #D399F7;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+   
+}
+
+h1{
+    color: #8F3EC2;
+
+}
+h1#principal{
+    text-align: center;
+    background-color: #572675;
+    color: white;
+    font-style: italic;
+}
+
+h2{
+    color: #B54EF5;
+}
+
+.basico {
+    color: brown;
+   
+}
+
+.intermediario {
+    color: rgb(5, 109, 110);
+}
+
+.avancado {
+    color: blue;
+}
+
+.vany {
+    color: brown;
+    font-weight: bolder;
+    font-style: italic;
+}
